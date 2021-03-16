@@ -1,3 +1,3 @@
 let marker = require('@ajar/marker')
 
-marker.blue('HEY!')
+marker.blue('HELLO WORLD')
